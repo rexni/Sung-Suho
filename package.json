@@ -1,0 +1,25 @@
+{
+  "name": "sung-suho",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "https://github.com/rexni/Sung-Suho.git",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "gh-pages": "^6.1.1",
+    "postcss": "^8.4.40",
+    "tailwindcss": "^3.4.6"
+  },
+  "dependencies": {
+    "vite": "^5.3.4"
+  }
+}
